@@ -3,6 +3,13 @@
 
 YoloV8 is detector objects in static images, videos, and a live webcam using Python and Ultralytics.
 
+## Software Requirements
+Install New Release Python and PhyCharm Community Edition To Run This Code
+
+- [Python](https://www.python.org/downloads/)
+- [PhyCharm Community](https://www.jetbrains.com/pycharm/download/#section=windows)
+
+
 ## Install Requirements
 Before start the program you must install the Requirements
 
