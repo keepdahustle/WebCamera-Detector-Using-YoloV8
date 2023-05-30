@@ -14,7 +14,7 @@ Install New Release Python and PhyCharm Community Edition To Run This Code
 Before start the program you must install the Requirements
 
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ## Change The Resolution Camera
 For Change the Resolution you can change whatever Ratio or Pixel did you want to use
