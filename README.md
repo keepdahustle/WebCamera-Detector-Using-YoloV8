@@ -29,6 +29,11 @@ You can Change scale or thickness of border at this line
 ```bash
 cvzone.putTextRect(img, f'{classNames[cls]} {conf}', (max(0, x1), max(35, y1)),scale=0.9,thickness=2)
 ```
+## Run The Program
+Run the python file for start the program
+```bash
+run main.py
+```
 
 ![Logo](https://i.pinimg.com/originals/7a/81/bf/7a81bf9cc1771a2409a7d2b38b2ba909.gif)
 
